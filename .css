@@ -1,0 +1,51 @@
+#main-doc {
+  Height: 100px;
+  width: auto;
+}
+
+#navbar {
+  position: fixed;
+  height: 100%;
+  width: 300px;
+}
+
+#technical-doc-writing {
+  width:75%;
+  margin-left: 320px;
+}
+
+header {
+  font-weight: bold;
+  font-size: 25px;
+  Font-family: Helvitica;
+}
+
+#navbar {
+  text-align: center; 
+  }
+
+p {
+  font-size: 20px;
+  font-family: Helvitica; 
+}
+
+#nav-link {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+li {
+  font-family: Helvitica;
+  font-size: 20px;
+}
